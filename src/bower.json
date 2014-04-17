@@ -1,0 +1,22 @@
+{
+  "name": "todo-board",
+  "homepage": "https://github.com/iofjuupasli/todo-board",
+  "authors": [
+    "iofjuupasli <iofjuupasli@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "bootstrap": "~3.1.1",
+    "lodash": "~2.4.1",
+    "jquery-ui": "~1.10.4"
+  }
+}
